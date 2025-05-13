@@ -44,30 +44,30 @@
     <tr>
       <td align="center">
         <a href="https://github.com/Fairus-24/iot-dashboard">
-          <img src="https://raw.githubusercontent.com/Fairus-24/iot-dashboard/main/screenshot.png" width="140px" alt="IoT Dashboard" />
+          <img src="https://raw.githubusercontent.com/Fairus-24/tes1/refs/heads/main/assets/IotDashbord.png" width="140px" alt="IoT Dashboard" />
           <br />
           <sub><b>IoT Dashboard</b><br>ESP32 + Node-RED monitoring</sub>
         </a>
       </td>
       <td align="center">
         <a href="https://github.com/Fairus-24/esp32-telegram-bot">
-          <img src="https://raw.githubusercontent.com/Fairus-24/esp32-telegram-bot/main/preview.png" width="140px" alt="ESP32 Bot" />
+          <img src="https://raw.githubusercontent.com/Fairus-24/tes1/refs/heads/main/assets/esp32.png" height="140px" alt="ESP32 Bot" />
           <br />
-          <sub><b>ESP32 Telegram Bot</b><br>Auto notifications & controls</sub>
+          <h7><b>ESP32 Telegram Bot</b><br>Auto notifications & controls</h7>
         </a>
       </td>
       <td align="center">
         <a href="https://github.com/Fairus-24/react-single-file-demos">
-          <img src="https://raw.githubusercontent.com/Fairus-24/react-single-file-demos/main/demo.png" width="140px" alt="React Demos" />
+          <img src="https://raw.githubusercontent.com/Fairus-24/tes1/refs/heads/main/assets/reactdemos.png" width="140px" alt="React Demos" />
           <br />
           <sub><b>Web Demos</b><br>React HTML/CSS/JS one-file</sub>
         </a>
       </td>
       <td align="center">
         <a href="https://github.com/Fairus-24/portfolio">
-          <img src="https://raw.githubusercontent.com/Fairus-24/portfolio/main/preview.png" width="140px" alt="Portfolio" />
+          <img src="https://raw.githubusercontent.com/Fairus-24/tes1/refs/heads/main/assets/portofolio.png" height="140px" alt="Portfolio" />
           <br />
-          <sub><b>Portfolio Site</b><br>Personal website</sub>
+          <h7><b>Portfolio Site</b><br>Personal website</h7>
         </a>
       </td>
     </tr>
