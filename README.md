@@ -33,8 +33,7 @@
 
 | Role           | Organization               | Period       | Description                                                           |
 | -------------- | -------------------------- | ------------ | --------------------------------------------------------------------- |
-| **Chairman**   | Mahapala Narotama Surabaya | 2025–Present | Memimpin kegiatan kepecintaalaman & pelatihan teknik luar ruangan.    |
-| **IoT Intern** | PT. Logistik Surabaya      | Summer 2024  | Membangun prototipe sistem monitoring suhu berbasis ESP32 & Node-RED. |
+| **IoT** | Iot Dev     | Summer 2024  | Membangun prototipe sistem monitoring suhu berbasis ESP32 & Node-RED. |
 
 ---
 
