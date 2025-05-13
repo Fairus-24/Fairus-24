@@ -93,8 +93,8 @@
 
 <p align="center">
   <!-- Pin your two most important projects -->
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Fairus-24&repo=NewsStreamHub&theme=radical" alt="NewsStreamHub Repo" />
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Fairus-24&repo=DigitalDesaHub&theme=radical" alt="DigitalDesaHub Repo" />
+  <a href="https://github.com/Fairus-24/NewsStreamHub"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Fairus-24&repo=NewsStreamHub&theme=radical" /></a>
+  <a href"https://github.com/Fairus-24/DigitalDesaHub"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Fairus-24&repo=DigitalDesaHub&theme=radical" /></a>
 </p>
 
 ---
