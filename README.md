@@ -6,7 +6,7 @@
 
 # <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> Hello, I’m **Muhammad Fairus Fawas Afanza**
 
-**🛠️ IoT & Full-Stack Developer**　|　**🐍 Python & JavaScript Enthusiast**
+<h4 align="center">🛠️ IoT & Full-Stack Developer | 🐍 Python & JavaScript Enthusiast | 🌱 Nature lovers</h4>
 
 <p align="center">
   <a href="#about"><img src="https://img.shields.io/badge/About-blue?style=flat-square" /></a>
