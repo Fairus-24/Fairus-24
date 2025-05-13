@@ -1,14 +1,17 @@
 <!-- ===== BANNER ===== -->
 
+
+
 <p align="center">
   <img src="https://raw.githubusercontent.com/Fairus-24/Fairus-24/main/banner.png" alt="Fairus Banner" width="100%" />
 </p>
 
 <h1 align="center"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> Hello, I’m Muhammad Fairus Fawas Afanza </h1>
 <p align="center">
-  <img src="https://img.shields.io/badge/Focus-IoT-blue?style=for-the-badge&logo=raspberrypi" />
-  <img src="https://img.shields.io/badge/React-%E2%9D%A4-lightblue?style=for-the-badge&logo=react" />
-  <img src="https://img.shields.io/github/followers/Fairus-24?label=Follow&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Focus-IoT-blue?style=flat&logo=raspberrypi" />
+  <img src="https://img.shields.io/badge/React-%E2%9D%A4-red?style=flat&logo=react" />
+  <img src="https://img.shields.io/github/followers/Fairus-24?label=Followers&color=blue&style=flat" />
+   <img src="https://img.shields.io/github/stars/Fairus-24?label=Total%20Stars&color=yellow&style=flat" />
 </p>
 
 <h4 align="center">🛠️ IoT & Full-Stack Developer | 🐍 Python & JavaScript Enthusiast | 🌱 Nature lovers</h4>
@@ -88,6 +91,11 @@
 | [DigitalDesaHub](https://github.com/Fairus-24/DigitalDesaHub) | Dashboard digital desa interaktif & informatif         | JS, HTML/CSS                |
 | [ESP32-Telegram Bot](https://wokwi.com/projects/382081002120527873)                                           | IoT alerts and control via Telegram messages           | ESP32, Arduino IDE, Bot API |
 
+<p align="center">
+  <!-- Pin your two most important projects -->
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Fairus-24&repo=NewsStreamHub&theme=radical" alt="NewsStreamHub Repo" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Fairus-24&repo=DigitalDesaHub&theme=radical" alt="DigitalDesaHub Repo" />
+</p>
 
 ---
 
@@ -109,8 +117,9 @@
   <a href="https://github.com/Fairus-24"><img src="https://komarev.com/ghpvc/?username=Fairus-24&color=brightgreen" alt="Visitor count" /></a><br>
   <img src="https://github-readme-stats.vercel.app/api?username=Fairus-24&show_icons=true&theme=radical&count_private=true" width="450" /><br>
    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Fairus-24&theme=radical" width="420" /><br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fairus-24&layout=compact&theme=radical" width="350" /><br>
-<img src="https://github-profile-trophy.vercel.app/?username=Fairus-24&theme=dracula&no-frame=true&row=1&margin-w=10" /></p>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Fairus-24&theme=dark" width="250" /><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fairus-24&layout=donut&theme=radical&langs_count=6" width="300" /><img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Fairus-24&theme=dark" width="250" /><br>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Fairus-24&theme=radical"  /><br>
+  <img src="https://github-profile-trophy.vercel.app/?username=Fairus-24&theme=dracula&no-frame=true&row=1&margin-w=10" /></p>
 
 ---
 
