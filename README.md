@@ -5,6 +5,11 @@
 </p>
 
 <h1 align="center"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> Hello, I’m Muhammad Fairus Fawas Afanza </h1>
+<p align="center">
+  <img src="https://img.shields.io/badge/Focus-IoT-blue?style=for-the-badge&logo=raspberrypi" />
+  <img src="https://img.shields.io/badge/React-%E2%9D%A4-lightblue?style=for-the-badge&logo=react" />
+  <img src="https://img.shields.io/github/followers/Fairus-24?label=Follow&style=for-the-badge" />
+</p>
 
 <h4 align="center">🛠️ IoT & Full-Stack Developer | 🐍 Python & JavaScript Enthusiast | 🌱 Nature lovers</h4>
 
@@ -76,6 +81,16 @@
 
 ---
 
+## ✨ Highlighted Projects
+| 🚀 Project                                                    | 📝 Description                                         | 🔧 Stack                    |
+| ------------------------------------------------------------- | ------------------------------------------------------ | --------------------------- |
+| [NewsStreamHub](https://github.com/Fairus-24/NewsStreamHub)   | Real-time categorized news with search and detail view | React, Tailwind, API        |
+| [DigitalDesaHub](https://github.com/Fairus-24/DigitalDesaHub) | Dashboard digital desa interaktif & informatif         | JS, HTML/CSS                |
+| [ESP32-Telegram Bot](https://wokwi.com/projects/382081002120527873)                                           | IoT alerts and control via Telegram messages           | ESP32, Arduino IDE, Bot API |
+
+
+---
+
 ## 📝 Latest Blog Posts <a name="blog"></a>
 
 <!-- BLOG-POST-LIST:START -->
@@ -91,28 +106,18 @@
 ## 📈 GitHub Stats <a name="stats"></a>
 
 <p align="center">
-  <a href="https://github.com/Fairus-24"><img src="https://komarev.com/ghpvc/?username=Fairus-24&color=brightgreen" alt="Visitor count" /></a>
-  <img src="https://github-readme-stats.vercel.app/api?username=Fairus-24&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fairus-24&layout=compact&theme=tokyonight" alt="Top Languages" />
-</p>
+  <a href="https://github.com/Fairus-24"><img src="https://komarev.com/ghpvc/?username=Fairus-24&color=brightgreen" alt="Visitor count" /></a><br>
+  <img src="https://github-readme-stats.vercel.app/api?username=Fairus-24&show_icons=true&theme=radical&count_private=true" width="450" /><br>
+   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Fairus-24&theme=radical" width="420" /><br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fairus-24&layout=compact&theme=radical" width="350" /><br>
+<img src="https://github-profile-trophy.vercel.app/?username=Fairus-24&theme=dracula&no-frame=true&row=1&margin-w=10" /></p>
 
 ---
 
 ## 🛠️ Tech Stack
 
 <div align="center">
-  <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/ESP32-2C3E50?style=for-the-badge&logo=espressif&logoColor=white" />
-  <img src="https://img.shields.io/badge/Node--RED-339933?style=for-the-badge&logo=node-red&logoColor=white" />
-  <img src="https://img.shields.io/badge/Telegram-B6CAFB?style=for-the-badge&logo=telegram&logoColor=white" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GHActions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" />
+  <img src="https://skillicons.dev/icons?i=react,nodejs,express,ts,html,css,js,cpp,tailwind,git,github,firebase,figma,arduino" />
 </div>
 
 ---
@@ -124,6 +129,7 @@
   <a href="https://www.instagram.com/mufaza_ini_"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
   <a href="https://www.linkedin.com/in/muhammad-fairus-fawas-afanza/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://github.com/Fairus-24"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="https://fairus.my.id"><img src="https://img.shields.io/badge/-Portfolio-green?style=for-the-badge&logo=github&logoColor=white"></a>
 </div>
 
 ---
