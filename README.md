@@ -12,7 +12,7 @@ On my page you can find:
 ---
 
 #### 📫 Contact Me  
-[![Email](https://img.shields.io/badge/Email-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:fairus.afanza@example.com)  
+[![Email](https://img.shields.io/badge/Email-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:admin@fairus.my.id)  
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/mufaza_ini_)  
 
 ---
