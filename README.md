@@ -1,7 +1,7 @@
 <!-- ===== BANNER ===== -->
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Fairus-24/Fairus-24/main/banner.png" alt="Fairus Banner" width="80%" />
+  <img src="https://raw.githubusercontent.com/Fairus-24/Fairus-24/main/banner.png" alt="Fairus Banner" width="100%" />
 </p>
 
 <h1 align="center"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> Hello, I’m Muhammad Fairus Fawas Afanza </h1>
