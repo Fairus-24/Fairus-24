@@ -71,14 +71,29 @@
 | [ESP32 Telegram Bot](https://wokwi.com/projects/382081002120527873) | IoT alerts & control via Telegram | ![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=flat&logo=espressif&logoColor=white) ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat&logo=arduino&logoColor=white) ![Telegram](https://img.shields.io/badge/Telegram%20Bot-0088cc?style=flat&logo=telegram&logoColor=white) |
 
 
-<p align="center">
-  
-  [![Fairus-24/NewsStreamHub - GitHub](https://gh-card.dev/repos/Fairus-24/NewsStreamHub.svg?fullname=)](https://github.com/Fairus-24/NewsStreamHub)
+<div align="center">
 
-  [![Fairus-24/DigitalDesaHub - GitHub](https://gh-card.dev/repos/Fairus-24/DigitalDesaHub.svg?fullname=)](https://github.com/Fairus-24/DigitalDesaHub)
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/Fairus-24/NewsStreamHub">
+        <img src="https://gh-card.dev/repos/Fairus-24/NewsStreamHub.svg?theme=dark&border_radius=16" width="300" alt="NewsStreamHub"/>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/Fairus-24/DigitalDesaHub">
+        <img src="https://gh-card.dev/repos/Fairus-24/DigitalDesaHub.svg?theme=dark&border_radius=16" width="300" alt="DigitalDesaHub"/>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/Fairus-24/SampahBijak">
+        <img src="https://gh-card.dev/repos/Fairus-24/SampahBijak.svg?theme=dark&border_radius=16" width="300" alt="SampahBijak"/>
+      </a>
+    </td>
+  </tr>
+</table>
 
-  [![Fairus-24/SampahBijak - GitHub](https://gh-card.dev/repos/Fairus-24/SampahBijak.svg?fullname=)](https://github.com/Fairus-24/SampahBijak)
-</p>
+</div>
 
 
 ---
