@@ -86,9 +86,9 @@
 
 ---
 
-## 🎧 Now Playing on Spotify
+## 🎧 Recently Played Music
 <p align="center">
-  <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31qkzqkexample&cover_image=true&theme=novatorem&show_offline=true&background_color=121212&interchange=true" />
+  <img src="https://lastfm-recently-played.vercel.app/api?user=Mufaza24" />
 </p>
 
 ---
