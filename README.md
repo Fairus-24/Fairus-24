@@ -70,20 +70,14 @@
 | [DigitalDesaHub](https://github.com/Fairus-24/DigitalDesaHub) | Dashboard digital desa interaktif | ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) ![HTML](https://img.shields.io/badge/HTML-E34C26?style=flat&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css3&logoColor=white) |
 | [ESP32 Telegram Bot](https://wokwi.com/projects/382081002120527873) | IoT alerts & control via Telegram | ![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=flat&logo=espressif&logoColor=white) ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat&logo=arduino&logoColor=white) ![Telegram](https://img.shields.io/badge/Telegram%20Bot-0088cc?style=flat&logo=telegram&logoColor=white) |
 
-<p align="center">
-  <a href="https://github.com/Fairus-24/NewsStreamHub">
-    <img 
-      src="https://github-readme-stats.vercel.app/api/pin/?username=Fairus-24&repo=NewsStreamHub&theme=tokyonight&show_owner=true&cache_seconds=86400" 
-      alt="NewsStreamHub Repo Card"
-    />
-  </a>
 
-  <a href="https://github.com/Fairus-24/DigitalDesaHub">
-    <img 
-      src="https://github-readme-stats.vercel.app/api/pin/?username=Fairus-24&repo=DigitalDesaHub&theme=tokyonight&show_owner=true&cache_seconds=86400" 
-      alt="DigitalDesaHub Repo Card"
-    />
-  </a>
+<p align="center">
+  
+  [![Fairus-24/NewsStreamHub - GitHub](https://gh-card.dev/repos/Fairus-24/NewsStreamHub.svg?fullname=)](https://github.com/Fairus-24/NewsStreamHub)
+
+  [![Fairus-24/DigitalDesaHub - GitHub](https://gh-card.dev/repos/Fairus-24/DigitalDesaHub.svg?fullname=)](https://github.com/Fairus-24/DigitalDesaHub)
+
+  [![Fairus-24/SampahBijak - GitHub](https://gh-card.dev/repos/Fairus-24/SampahBijak.svg?fullname=)](https://github.com/Fairus-24/SampahBijak)
 </p>
 
 
