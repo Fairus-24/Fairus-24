@@ -1,146 +1,141 @@
-<!-- ===== BANNER ===== -->
-
-
-
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Fairus-24/Fairus-24/main/banner.png" alt="Fairus Banner" width="100%" />
+  <img src="bannerV2.png" alt="Fairus Banner" width="100%" />
 </p>
 
-<h1 align="center"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> Hello, I’m Muhammad Fairus Fawas Afanza </h1>
 <p align="center">
-  <img src="https://img.shields.io/badge/Focus-IoT-blue?style=flat&logo=raspberrypi" />
-  <img src="https://img.shields.io/badge/React-%E2%9D%A4-red?style=flat&logo=react" />
-  <img src="https://img.shields.io/github/followers/Fairus-24?label=Followers&color=blue&style=flat" />
-   <img src="https://img.shields.io/github/stars/Fairus-24?label=Total%20Stars&color=yellow&style=flat" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=3500&color=00F7FF&center=true&vCenter=true&width=800&lines=Hi+👋+I'm+Fairus;IoT+Developer+%7C+React+Frontend+Developer;ESP32+%7C+Arduino+%7C+Web+Developer;Chairman+of+Mahapala+Narotama+Surabaya;Always+learning+new+technology+🚀" />
 </p>
 
-<h4 align="center">🛠️ IoT & Full-Stack Developer | 🐍 Python & JavaScript Enthusiast | 🌱 Nature lovers</h4>
-
 <p align="center">
-  <a href="#about"><img src="https://img.shields.io/badge/About-blue?style=flat-square" /></a>
-  <a href="#work"><img src="https://img.shields.io/badge/Work-green?style=flat-square" /></a>
-  <a href="#projects"><img src="https://img.shields.io/badge/Projects-yellow?style=flat-square" /></a>
-  <a href="#blog"><img src="https://img.shields.io/badge/Blog-purple?style=flat-square" /></a>
-  <a href="#stats"><img src="https://img.shields.io/badge/Stats-red?style=flat-square" /></a>
-  <a href="#contact"><img src="https://img.shields.io/badge/Contact-pink?style=flat-square" /></a>
+  <img src="https://img.shields.io/github/followers/Fairus-24?label=Followers&logo=github&style=plastic&color=00C853"/>
+  <img src="https://img.shields.io/github/stars/Fairus-24?label=Total%20Stars&logo=github&style=plastic&color=FFD600"/>
+  <img src="https://img.shields.io/badge/Public%20Repos-View%20Stats-00B0FF?style=plastic&logo=github"/>
 </p>
 
----
-
-## 🌟 About Me
-
-* 🎓 Currently finalizing my BSc in Computer Science.
-* 🔭 Working on **IoT Dashboard**, **ESP32 Telegram Bots**, and **Interactive Web Demos**.
-* 🌱 Learning **Security Research** and **Advanced Node-RED Integrations**.
-* 💬 Ask me about **ESP32**, **Node-RED**, **ReactJS**, **Python**.
-* ⚡ Fun fact: I brewed my own herbal tea during my last coding session!
+<h3 align="center">🚀 IoT Developer • React Developer • Outdoor Enthusiast</h3>
 
 ---
 
-## 💼 Work & Experience
-
-| Role           | Organization               | Period       | Description                                                           |
-| -------------- | -------------------------- | ------------ | --------------------------------------------------------------------- |
-| **IoT** | Iot Dev     | Summer 2024  | Membangun prototipe sistem monitoring suhu berbasis ESP32 & Node-RED. |
-
----
-
-## 🚀 Featured Projects <a name="projects"></a>
-
-<div align="center">
-  <table>
-    <tr>
-      <td align="center">
-        <a href="https://github.com/Fairus-24/iot-dashboard">
-          <img src="https://raw.githubusercontent.com/Fairus-24/tes1/refs/heads/main/assets/IotDashbord.png" width="140px" alt="IoT Dashboard" />
-          <br />
-          <sub><b>IoT Dashboard</b><br>ESP32 + Node-RED monitoring</sub>
-        </a>
-      </td>
-      <td align="center">
-        <a href="https://github.com/Fairus-24/esp32-telegram-bot">
-          <img src="https://raw.githubusercontent.com/Fairus-24/tes1/refs/heads/main/assets/esp32.png" height="140px" alt="ESP32 Bot" />
-          <br />
-          <h7><b>ESP32 Telegram Bot</b><br>Auto notifications & controls</h7>
-        </a>
-      </td>
-      <td align="center">
-        <a href="https://github.com/Fairus-24/react-single-file-demos">
-          <img src="https://raw.githubusercontent.com/Fairus-24/tes1/refs/heads/main/assets/reactdemos.png" width="140px" alt="React Demos" />
-          <br />
-          <sub><b>Web Demos</b><br>React HTML/CSS/JS one-file</sub>
-        </a>
-      </td>
-      <td align="center">
-        <a href="https://github.com/Fairus-24/portfolio">
-          <img src="https://raw.githubusercontent.com/Fairus-24/tes1/refs/heads/main/assets/portofolio.png" height="140px" alt="Portfolio" />
-          <br />
-          <h7><b>Portfolio Site</b><br>Personal website</h7>
-        </a>
-      </td>
-    </tr>
-  </table>
-</div>
-
----
-
-## ✨ Highlighted Projects
-| 🚀 Project                                                    | 📝 Description                                         | 🔧 Stack                    |
-| ------------------------------------------------------------- | ------------------------------------------------------ | --------------------------- |
-| [NewsStreamHub](https://github.com/Fairus-24/NewsStreamHub)   | Real-time categorized news with search and detail view | React, Tailwind, API        |
-| [DigitalDesaHub](https://github.com/Fairus-24/DigitalDesaHub) | Dashboard digital desa interaktif & informatif         | JS, HTML/CSS                |
-| [ESP32-Telegram Bot](https://wokwi.com/projects/382081002120527873)                                           | IoT alerts and control via Telegram messages           | ESP32, Arduino IDE, Bot API |
-
-<p align="center">
-  <!-- Pin your two most important projects -->
-  <a href="https://github.com/Fairus-24/NewsStreamHub"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Fairus-24&repo=NewsStreamHub&theme=radical" /></a>
-  <a href"https://github.com/Fairus-24/DigitalDesaHub"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Fairus-24&repo=DigitalDesaHub&theme=radical" /></a>
-</p>
-
----
-
-## 📝 Latest Blog Posts <a name="blog"></a>
-
-<!-- BLOG-POST-LIST:START -->
-
-* [Membuat Sistem Notifikasi Keamanan Berbasis ESP32](https://fairus.my.id/blog/esp32-security-alerts)
-* [Integrasi Node-RED dengan Telegram Bot](https://fairus.my.id/blog/node-red-telegram)
-* [React Single-File: Trik dan Tips](https://fairus.my.id/blog/react-single-file)
-
-<!-- BLOG-POST-LIST:END -->
-
----
-
-## 📈 GitHub Stats <a name="stats"></a>
-
-<p align="center">
-  <a href="https://github.com/Fairus-24"><img src="https://komarev.com/ghpvc/?username=Fairus-24&color=brightgreen" alt="Visitor count" /></a><br>
-  <img src="https://github-readme-stats.vercel.app/api?username=Fairus-24&show_icons=true&theme=radical&count_private=true" width="450" /><br>
-   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Fairus-24&theme=radical" width="420" /><br>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Fairus-24&theme=dark" width="250" /><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fairus-24&layout=donut&theme=radical&langs_count=6" width="300" /><img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Fairus-24&theme=dark" width="250" /><br>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Fairus-24&theme=radical"  /><br>
-  <img src="https://github-profile-trophy.vercel.app/?username=Fairus-24&theme=dracula&no-frame=true&row=1&margin-w=10" /></p>
+## 👨‍💻 About Me
+- 🎓 Informatics Student  
+- 🤖 IoT Developer (ESP32 • Arduino • Node-RED)  
+- 🌐 React Frontend Developer  
+- 🧗 Chairman of Mahapala Narotama Surabaya  
+- 💡 Passionate about Automation & Smart Systems  
 
 ---
 
 ## 🛠️ Tech Stack
-
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=react,nodejs,express,ts,html,css,js,cpp,tailwind,git,github,firebase,figma,arduino" />
-</div>
-
----
-
-## 📫 Contact Me <a name="contact"></a>
-
-<div align="center">
-  <a href="mailto:admin@fairus.my.id"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://www.instagram.com/mufaza_ini_"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/muhammad-fairus-fawas-afanza/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://github.com/Fairus-24"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
-  <a href="https://fairus.my.id"><img src="https://img.shields.io/badge/-Portfolio-green?style=for-the-badge&logo=github&logoColor=white"></a>
-</div>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,nodejs,express,ts,html,css,js,cpp,tailwind,git,github,firebase,figma,arduino,vscode" />
+</p>
 
 ---
 
-<p align="center"><em>“The best way to predict the future is to invent it.”</em></p>
+## ⏱️ Weekly Coding Stats
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
+---
+
+## 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Fairus-24&show_icons=true&theme=tokyonight&hide_border=true" height="165"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Fairus-24&theme=tokyonight&hide_border=true" height="165"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fairus-24&layout=compact&theme=tokyonight&hide_border=true"/>
+</p>
+
+---
+
+## 📈 Activity Graph
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Fairus-24&theme=tokyo-night&hide_border=true" />
+
+---
+
+## 🏆 Achievements
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=Fairus-24&theme=tokyonight&no-frame=true&row=1&column=6"/>
+</p>
+
+---
+
+## 🔥 Featured Projects
+
+| 🚀 Project | 📝 Description | 🔧 Stack |
+|---|---|---|
+| [NewsStreamHub](https://github.com/Fairus-24/NewsStreamHub) | Real-time categorized news with search & detail | React, Tailwind, API |
+| [DigitalDesaHub](https://github.com/Fairus-24/DigitalDesaHub) | Dashboard digital desa interaktif | JS, HTML/CSS |
+| [ESP32 Telegram Bot](https://wokwi.com/projects/382081002120527873) | IoT alerts & control via Telegram | ESP32, Arduino |
+
+<p align="center">
+  <a href="https://github.com/Fairus-24/NewsStreamHub">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Fairus-24&repo=NewsStreamHub&theme=tokyonight" />
+  </a>
+  <a href="https://github.com/Fairus-24/DigitalDesaHub">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Fairus-24&repo=DigitalDesaHub&theme=tokyonight" />
+  </a>
+</p>
+
+---
+
+## 🐍 Contribution Snake
+![snake gif](https://github.com/Fairus-24/Fairus-24/blob/output/github-contribution-grid-snake.svg)
+
+---
+
+## 🎧 Now Playing on Spotify
+<p align="center">
+  <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31qkzqkexample&cover_image=true&theme=novatorem&show_offline=true&background_color=121212&interchange=true" />
+</p>
+
+---
+
+## 🌤️ Weather
+<p align="center">
+  <img src="https://wttr.in/Indonesia_Jawa_Timur_?format=3" />
+</p>
+
+---
+
+## 💬 Dev Quote
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
+</p>
+
+---
+
+## 📊 Full Metrics Dashboard
+<img src="/github-metrics.svg" />
+
+---
+
+## 👀 Visitors
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Fairus-24&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
+</p>
+
+---
+
+## 🤝 Connect With Me
+<p align="center">
+  <a href="mailto:admin@fairus.my.id">
+    <img src="https://img.shields.io/badge/Email-Contact%20Me-D14836?style=plastic&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://www.linkedin.com/in/muhammad-fairus-fawas-afanza/">
+    <img src="https://img.shields.io/badge/LinkedIn-Let's%20Connect-0A66C2?style=plastic&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://instagram.com/mufaza_ini_">
+    <img src="https://img.shields.io/badge/Instagram-Follow%20Me-E4405F?style=plastic&logo=instagram&logoColor=white"/>
+  </a>
+  <a href="https://fairus.my.id">
+    <img src="https://img.shields.io/badge/Portfolio-Visit%20Website-00C853?style=plastic&logo=google-chrome&logoColor=white"/>
+  </a>
+</p>
+
+
+---
+
+<p align="center"><em>"The best way to predict the future is to invent it."</em></p>
