@@ -4,9 +4,9 @@
 
 # Hi, I'm Fairus 👋
 
-**IoT Developer · Front-end Web Developer · Outdoor Enthusiast**
+**IoT Developer • Front-end Web Developer • Outdoor Enthusiast**
 
-I build connected systems and web experiences, and enjoy exploring the outdoors.
+I build connected systems, web experiences, and practical digital solutions with a passion for outdoor exploration.
 
 [![Email](https://img.shields.io/badge/Email-Contact%20me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:admin@fairus.my.id)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammad-fairus-fawas-afanza/)
@@ -19,11 +19,11 @@ I build connected systems and web experiences, and enjoy exploring the outdoors.
 
 ## About Me
 
-- 🎓 Computer System student
+- 🎓 Computer Systems student
 - 🤖 Building IoT projects with ESP32, Arduino, and Node-RED
-- 🌐 Developing web interfaces and applications
+- 🌐 Developing responsive and user-friendly web applications
 - 🧗 Chairman of Mahapala Narotama Surabaya
-- 💡 Interested in automation and smart systems
+- 💡 Interested in automation, smart systems, and real-world problem solving
 
 ## Tech Stack
 
@@ -37,39 +37,34 @@ I build connected systems and web experiences, and enjoy exploring the outdoors.
 
 ### [NewsStreamHub](https://github.com/Fairus-24/NewsStreamHub)
 
-Real-time categorized news with search and article details.  
+Real-time categorized news platform with search and article detail pages.  
 `React` `Tailwind CSS` `API`
 
 ### [DigitalDesaHub](https://github.com/Fairus-24/DigitalDesaHub)
 
-An interactive digital village dashboard.  
+Interactive digital village dashboard designed to present useful local information.  
 `JavaScript` `HTML` `CSS`
 
 ### [ESP32 Telegram Bot](https://wokwi.com/projects/382081002120527873)
 
-An IoT project for alerts and control through Telegram.  
+An IoT project for alerts and device control through Telegram messaging.  
 `ESP32` `Arduino` `Telegram Bot`
 
-## GitHub Statistics
+## GitHub Overview
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Fairus-24&show_icons=true&theme=tokyonight&hide_border=true" height="165" alt="Fairus's GitHub statistics" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Fairus-24&theme=tokyonight&hide_border=true" height="165" alt="Fairus's GitHub contribution streak" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Fairus-24&theme=tokyonight" alt="Fairus's GitHub profile summary" width="100%" />
 
-<br />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fairus-24&layout=compact&theme=tokyonight&hide_border=true" alt="Most used programming languages on Fairus's GitHub" />
+<img src="https://streak-stats.demolab.com?user=Fairus-24&theme=tokyonight&hide_border=true" height="165" alt="Fairus's GitHub contribution streak" />
 
 </div>
 
-## Contribution Activity
+## Contribution Streak
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Fairus-24&theme=tokyo-night&hide_border=true" alt="Fairus's GitHub contribution activity graph" width="100%" />
-
-<img src="https://github-profile-trophy.vercel.app/?username=Fairus-24&theme=tokyonight&no-frame=true&row=1&column=6" alt="GitHub trophies earned by Fairus" width="100%" />
+<img src="https://github-profile-trophy.vercel.app/?username=Fairus-24&theme=tokyonight&no-frame=true&row=1&column=6" alt="Fairus's GitHub trophies" width="100%" />
 
 </div>
 
